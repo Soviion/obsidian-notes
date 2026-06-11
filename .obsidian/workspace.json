@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "56a9ce8e47b041d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3049343edd3597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6406a9e9fe4dc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КУРС SA/БД х СУБД.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "БД х СУБД"
+            }
+          },
+          {
+            "id": "3c9594b3fbf84875",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КУРС SA/Арихитектура ПО.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Арихитектура ПО"
+            }
+          },
+          {
+            "id": "a6549943d096206c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КУРС SA/UML - BPMN - ERD/BPMN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BPMN"
+            }
+          },
+          {
+            "id": "561e43894194b464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КУРС SA/Waterfall     vs    Aglie     vs    KANBAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waterfall     vs    Aglie     vs    KANBAN"
+            }
+          },
+          {
+            "id": "c4e894998ed34f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КУРС SA/Waterfall     vs    Aglie     vs    KANBAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waterfall     vs    Aglie     vs    KANBAN"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2b80472730d3158",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c8a96c9e71cd24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcade1efcef555e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "fe0bc1a5d503de56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f3df4f9b538ba86d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68b405618d8e9fb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b15ddc346a5fefc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75714cc0f67be39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Архитектурные подходы разработки ПО/Архитектурные подходы разработки ПО.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Архитектурные подходы разработки ПО"
+            }
+          },
+          {
+            "id": "4ec21bcbd6c3c13b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Архитектурные подходы разработки ПО/Архитектурные подходы разработки ПО.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Архитектурные подходы разработки ПО"
+            }
+          },
+          {
+            "id": "10e5e016c804cd79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c97528c64e23f427",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "333d7dd516dad95a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Архитектурные подходы разработки ПО/Архитектурные подходы разработки ПО.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Архитектурные подходы разработки ПО"
+            }
+          },
+          {
+            "id": "b566bac46d6032fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dcade1efcef555e7",
+  "lastOpenFiles": [
+    "КУРС SA/Как создается ПО.md",
+    "КУРС SA/Waterfall     vs    Aglie     vs    KANBAN.md",
+    "--------------------------------------------/Pasted image 20260610184452.png",
+    "--------------------------------------------/Pasted image 20260610184357.png",
+    "--------------------------------------------/Pasted image 20260610183302.png",
+    "--------------------------------------------/Pasted image 20260610183156.png",
+    "--------------------------------------------/Pasted image 20260610182719.png",
+    "--------------------------------------------/Pasted image 20260610182643.png",
+    "--------------------------------------------/Pasted image 20260610182330.png",
+    "--------------------------------------------/Pasted image 20260610182051.png",
+    "--------------------------------------------/Pasted image 20260610181715.png",
+    "--------------------------------------------/Pasted image 20260610181141.png",
+    "КУРС SA/SQL.md",
+    "КУРС SA/Интеграции/REST API.md",
+    "1Мои/Архитектурные подходы разработки ПО/HTTP-HTTPS + сети/HTTP + HTTPS.md",
+    "КУРС SA/UML - BPMN - ERD/UML/Plant UML.md",
+    "1Мои/Архитектурные подходы разработки ПО/Massege brokers/RabbitMQ x Apache Kafka.md",
+    "КУРС SA/Интеграции/WebSocket.md",
+    "КУРС SA/Интеграции/Интеграции.md",
+    "КУРС SA/Эскиз - макет - портотип.md",
+    "1Мои/REST/API (SOAP, REST, gRPC)/REST x SOAP + ACID.md",
+    "КУРС SA/Интеграции",
+    "КУРС SA/БД х СУБД.md",
+    "КУРС SA/UML - BPMN - ERD/BPMN.md",
+    "КУРС SA/UML - BPMN - ERD/ERD.md",
+    "КУРС SA/Арихитектура ПО.md",
+    "1Мои/Архитектурные подходы разработки ПО/Архитектурные подходы разработки ПО.md",
+    "1Мои/Архитектурные подходы разработки ПО/Интеграции/Интеграции.md",
+    "КУРС SA/UML - BPMN - ERD/UML/UML.md",
+    "1Мои",
+    "1Мои/Базы данных/SQL-запросы.md",
+    "КУРС SA/UML - BPMN - ERD/UML",
+    "КУРС SA/Эвристики Нильсона user-friendly UI.md",
+    "1Мои/Базы данных/Нормальные формы БД.md",
+    "1Мои/Базы данных/Индексы.md",
+    "1Мои/Базы данных/Базы данных.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Без названия.base",
+    "ЗАМЕТКИ.md",
+    "ТЕСТ УВЕДОМЛЕНИЙ ИЗ БОТА.md",
+    "КУРС SA",
+    "Untitled.canvas",
+    "Untitled.base",
+    "КУРС SA/UML - BPMN - ERD/UML",
+    "UML BPMN ERD/BPMN",
+    "1Мои/REST",
+    "1Мои/Архитектурные подходы разработки ПО/Massege brokers",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
