@@ -1,0 +1,13 @@
+# Obsidian workspace state (меняется каждую сессию — не нужен в git)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Временные файлы
+*.tmp
+*.log
